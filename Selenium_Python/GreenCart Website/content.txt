@@ -1,0 +1,6 @@
+1) Understand the business context: consumption patterns, micro-economic concepts underlying demand and supply,
+2) Analyse firm-level and industry-level data,
+3) Discover how businesses operate, and how they are actively managed using data dashboards,
+4) Get a handle on the data that originates from business processes,
+5) Identify the techniques used to represent and structure this data,
+6) Gain skills on the use of worksheets to organise, interpret and present data.
