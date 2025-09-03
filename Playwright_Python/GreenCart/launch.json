@@ -1,0 +1,9 @@
+{
+    "name": "Python: pytest",
+    "type": "python",
+    "request": "launch",
+    "module": "pytest",
+    "args": [
+        "TestFile.py"
+    ]
+}
